@@ -1,2 +1,2 @@
-# -Criando-uma-Ferramenta-de-Controle-de-Investimentos-com-Excel
-Este laboratório tem como objetivo tem como objetivo aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários.
+Olá, este projeto sintetiza e conclui a primeira etapa do curso do Santander - Excel com Inteligência Artificial - 2º Semestre
+A inteção deste projeto era projetar uma planilha que simulasse uma calculadora de investimentos tendo em foco os fundos imobiliários (FII's) Com isso, o projeto é capaz de responder questionamentos de quanto dividendo receberá com determinado patrimônio e em quanto tempo. além de recomendar uma divisão do investimentos entre os diferentes tipos de FII's com base no perfil do investidor
